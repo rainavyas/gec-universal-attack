@@ -9,3 +9,6 @@ Grammatical error correction (GEC) systems are a useful tool for assessing a lea
 
 The submitted paper includes a range of experiments. Each set of experiments have been conducted within their own repositories:
 
+- Attacking and Defending the Gramformer system: [Repo](https://github.com/rainavyas/ConcatTunedGramformerAttack)
+- Attacking Grammarly's GeCToR system: [Repo](https://github.com/rainavyas/gector)
+
